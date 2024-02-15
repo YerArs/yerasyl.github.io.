@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+<titile>Менің бірінші веб-сайтым</title>
+<style>
+body {font-family: Arial,
+sans-serif;
+margin: 0;
+padding: 0;
+background-color:
+#f0f0f0;}
+header {background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: cenrt;}
+nav {background-color: #444;
+padding: 5px;
+text-align: center;}
+nav a {color: #fff;
+text-decoration: none;
+padding: 5px 10px;}
+nav a:hover {background-color: #666;}
+main {padding: 20px;}
+footer {background-color: #333;
+color: #fff;
+text-align: center;
+padding: 10px;
+position: fixed;
+bottom: 0;
+width: 100%;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Қош келдініз менім бірінші веб-сайтыма!</h1>
+</header>
+
+<nav>
+<a href="#">YerARS</a>
+<a href="#">Мен 10 ә сынып оқушысы боламын</a>
+<a href="#">Мен веб-сайтты жасауды үйреніп жатырмын</a>
+<a href="#">Менің ұялы телефон нөмерім +77476634340</a>
+</nav>
+
+<main>
+<h2>YerARS</h2>
+<p>Мен жас зерттеуші 10 сынып оқушысымын</p>
+<h2>Менің әзірше көп оқу тәжірбием жоқ болғандықтан көп мағлұмат біле білмеймін</h2>
+<ul>
+<li>Веб-дизайн</li>
+<li>Разработка веб-приложений</li>
+<li>оптимизация веб-сайтов</li>
+</ul>
+<h2>YerARS</h2>
+<p>Телефон:+77476634340 </p>
+<p> Email: yerars016@gmail.com </p>
+</main>
+
+<footer>
+<p>&copy; 2024 Менің бірінші веб-сайтым</p>
+</footer>
+
+</body>
+</html>
